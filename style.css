@@ -1,0 +1,59 @@
+.heading1{
+    color: blue;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.heading2{
+    color: purple;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    padding-top: 30px;
+    text-align: center;
+}
+.button_div {
+    display: flex;          
+    flex-wrap: wrap;        
+    justify-content: center; 
+    align-items: center;   
+    height: 10vh;         
+    gap: 20px;  
+             
+}
+#Red{
+    background-color: Red;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#Yellow{
+    background-color: yellow;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#Green{
+    background-color: green;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#Pink{
+    background-color: pink;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+}
